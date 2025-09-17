@@ -38,6 +38,7 @@ El objetivo principal es crear una plataforma moderna, escalable y fácil de usa
 
 ## 📂 Estructura del Proyecto (Propuesta)
 
+``` files
 ecommerce-camisetas/
 │── backend/ # API y lógica de negocio
 │ ├── src/
@@ -53,6 +54,9 @@ ecommerce-camisetas/
 │── docs/ # Documentación del proyecto
 │── docker-compose.yml # Configuración de contenedores
 │── README.md # Documentación principal
+```
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
 
 ---
 
